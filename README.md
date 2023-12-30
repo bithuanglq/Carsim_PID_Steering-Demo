@@ -5,7 +5,7 @@ PID controls a vehicle to follow centerline on road in Carsim.
 PIDACC.mdl
 
 ### Result
-Use PID as steering controller to guide the vehicle follow the centerline in road.
+Use PID as steering controller to guide the vehicle follow the centerline on the road.
 
 
 
